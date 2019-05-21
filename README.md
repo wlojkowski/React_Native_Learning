@@ -1,6 +1,6 @@
-#React Native
+# React Native
 
-#Instalacja i konfiguracja
+### Instalacja i konfiguracja
 
 1. [Instalacja Java SDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 2. [Instalacja Node](https://nodejs.org/en/) 
@@ -15,7 +15,7 @@
 11. Otworzenie projektu w Android studio i włączenie emulatora
 12. Włączenie projektu na emulatorze - `react-native run-android`
 
-# Przydatne narzędzia
+### Przydatne narzędzia
 
 1. ESLint - linter dla JavaScript'u. Rozpoznaje i wyświetla błędy. 
 ⋅⋅* Instalacja poprzez `npm install -g eslint`
